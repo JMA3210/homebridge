@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge.git"
+    "url": "git://github.com/JMA3210/homebridge.git"
   },
   "bugs": {
-    "url": "http://github.com/nfarina/homebridge/issues"
+    "url": "http://github.com/JMA3210/homebridge/issues"
   },
   "license": "ISC",
   "bin": {
